@@ -1,5 +1,8 @@
 # Hospital Admissions & Patients Profile Analysis Dashboard
 
+[Screenshot (492)](https://github.com/user-attachments/assets/c1025430-cf35-49c1-8109-635258b4b16b)
+
+
 ## Overview
 
 This dashboard provides a comprehensive overview of hospital admissions and patient demographics for Dayanand Medical College & Hospital (implied from the image). It presents key metrics related to patient characteristics, admission details, lab values, and outcomes. The dashboard aims to facilitate data-driven decision-making and improve operational efficiency by providing insights into patient flow and clinical trends.
