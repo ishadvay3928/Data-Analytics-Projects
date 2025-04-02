@@ -1,4 +1,4 @@
-# Hospital Admissions & Patient Demographics Dashboard
+# Hospital Admissions & Patients Profile Analysis Dashboard
 
 ## Overview
 
