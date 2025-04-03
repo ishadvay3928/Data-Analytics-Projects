@@ -82,7 +82,6 @@ pip install pandas numpy matplotlib seaborn
 
 4. **Power BI Dashboard**  
 - Open `Amazon_kindle_Dashboard.pbix` in Power BI to explore interactive insights.
-- Dashboard Link: https://app.powerbi.com/groups/me/reports/d66b1b60-4e76-4feb-ad10-41904e112b2a/a88bfc2884ed87b46acc?experience=power-bi
 
 ---
 
@@ -94,6 +93,7 @@ pip install pandas numpy matplotlib seaborn
 ---
 
 ## Contact  
+
 **Developed by:** Isha Chaudhary
 
 **Contact:** ishadvay3928@gmail.com
