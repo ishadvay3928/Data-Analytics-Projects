@@ -34,15 +34,6 @@ This dashboard provides a comprehensive overview of hospital admissions and pati
 * **Clinical Insights:** Analyze lab values and patient outcomes to gain insights into patient health and treatment effectiveness.
 * **Operational Management:** Monitor admission trends and resource utilization to optimize hospital operations.
 
-## Potential Improvements (Based on Review):
-
-* **Design Refinement:** Improve the visual appeal of the dashboard by using a consistent color palette, white space, and alignment.
-* **Enhanced Interactivity:** Add tooltips, zoom functionality, and drill-down options to enable more in-depth data exploration.
-* **Contextual Information:** Include benchmarks, comparisons, and annotations to provide context and insights into the data.
-* **Chart Selection Optimization:** Consider using more effective chart types for certain data to improve clarity and understanding.
-* **Clear Color Coding:** Use a consistent and clear color scheme with legends for all charts.
-* **Storytelling Approach:** Organize the dashboard to tell a coherent story about hospital admissions and patient demographics.
-
 ## Future Enhancements
 
 * **Integration with other data sources:** Incorporate data from other departments or external sources to provide a more holistic view.
@@ -51,4 +42,8 @@ This dashboard provides a comprehensive overview of hospital admissions and pati
 
 ## Contact
 
-For questions or feedback, please contact @ishadvay3928@gmail.com.
+**Developed by:** Isha Chaudhary 
+
+**Email:** ishadvay3928@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/ishachaudhary18/@ishadvay3928@gmail.com.
