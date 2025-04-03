@@ -93,8 +93,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## License  
-This project is open-source and available under the **MIT License**.  
-
-**Developed by:** Isha Chaudhary  
-**Contact:** ishadvay3928@gmail.com  
+## Contact  
+**Developed by:** Isha Chaudhary 
+**Contact:** ishadvay3928@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/ishachaudhary18/
