@@ -5,7 +5,7 @@
 
 ## Overview
 
-This dashboard provides a comprehensive overview of hospital admissions and patient demographics for Hero DMC Heart Institute, Dayanand Medical College & Hospital. It presents key metrics related to patient characteristics, admission details, lab values, and outcomes. The dashboard aims to facilitate data-driven decision-making and improve operational efficiency by providing insights into patient flow and clinical trends.
+This dashboard provides a comprehensive overview of hospital admissions and patient demographics for Hero DMC Heart Institute, Unit of Dayanand Medical College and Hospital, Ludhiana, Punjab, India. It presents key metrics related to patient characteristics, admission details, lab values, and outcomes. The dashboard aims to facilitate data-driven decision-making and improve operational efficiency by providing insights into patient flow and clinical trends.
 
 ## Key Features
 
@@ -17,7 +17,8 @@ This dashboard provides a comprehensive overview of hospital admissions and pati
 
 ## Data Sources
 
-* The data is sourced from Kindle - https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data?resource=download .
+* The data is sourced from Kindle.
+* *Link:* - https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data?resource=download .
 
 ## Dashboard Components
 
