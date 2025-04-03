@@ -62,4 +62,12 @@ The analysis provides actionable insights into customer behavior, booking patter
 
 Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or report bugs.
 
+## Contact  
+
+**Developed by:** Isha Chaudhary
+
+**Contact:** ishadvay3928@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/ishachaudhary18/
+
 
