@@ -94,6 +94,8 @@ pip install pandas numpy matplotlib seaborn
 ---
 
 ## Contact  
-**Developed by:** Isha Chaudhary 
+**Developed by:** Isha Chaudhary
+
 **Contact:** ishadvay3928@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/ishachaudhary18/
