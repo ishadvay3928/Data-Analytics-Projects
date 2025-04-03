@@ -41,6 +41,10 @@ This dashboard provides a comprehensive overview of hospital admissions and pati
 * **Predictive Analytics:** Implement predictive models to forecast patient admissions, identify high-risk patients, and optimize resource allocation.
 * **Real-time Updates:** Enable real-time data updates to provide up-to-the-minute insights.
 
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or report bugs.
+
 ## Contact
 
 **Developed by:** Isha Chaudhary 
