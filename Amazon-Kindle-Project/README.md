@@ -91,7 +91,11 @@ pip install pandas numpy matplotlib seaborn
    - Perform **sentiment analysis** on book reviews.  
 
 ---
+## Contributing
 
+Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or report bugs.
+
+---
 ## Contact  
 
 **Developed by:** Isha Chaudhary
