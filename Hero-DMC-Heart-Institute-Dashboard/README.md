@@ -17,7 +17,7 @@ This dashboard provides a comprehensive overview of hospital admissions and pati
 
 ## Data Sources
 
-* The data is assumed to be sourced from the hospital's electronic health record (EHR) system or a similar database.
+* The data is sourced from Kindle - https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data?resource=download .
 
 ## Dashboard Components
 
@@ -46,4 +46,4 @@ This dashboard provides a comprehensive overview of hospital admissions and pati
 
 **Email:** ishadvay3928@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/ishachaudhary18/@ishadvay3928@gmail.com.
+**LinkedIn:** https://www.linkedin.com/in/ishachaudhary18/
